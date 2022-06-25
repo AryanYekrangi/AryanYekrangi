@@ -2,7 +2,7 @@ Hello, I'm a Computational Linguist graduated from Master of Arts in Linguistic 
 I have experience with:
 - Machine Learning
 - Natural Language Processing (NLP)
-- Data processing and pre-processing
+- Data processing and preperation
 
 I also have some experience with:
 - GUI design
